@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name: Rene M. Espina Jr.
+Education: 2nd Year Bachelor of Science in Information Technology (BSIT)
+Certifications: SQL and Relational Databases 101
+[https://courses.cognitiveclass.ai/certificates/971228f75c7549e5bd7cf35addb50161](url)
+Skillsets:
+- Basic Frontend (HTML, CSS, Basic JS)
+- Web Design
+- UI Design
+
