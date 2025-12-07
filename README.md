@@ -21,7 +21,7 @@ Certifications: SQL and Relational Databases 101
 [https://courses.cognitiveclass.ai/certificates/971228f75c7549e5bd7cf35addb50161](url)
 
 Oracle Cloud Infrastructure Foundations Associate
-[https://catalog-education.oracle.com/pls/certview/sharebadge?id=5930E17FF6F06C1E4FD01E15DC74A1D5198C90E5235280A71326EF36D96FF195](url)
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=5930E17FF6F06C1E4FD01E15DC74A1D5198C90E5235280A71326EF36D96FF195
 
 Skillsets:
 - Basic Frontend (HTML, CSS, Basic JS)
