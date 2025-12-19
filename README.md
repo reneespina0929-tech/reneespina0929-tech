@@ -26,6 +26,9 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=5930E17FF6F06C1E
 Oracle Data Platform 2025 Certified Foundations Associate
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=B11D109A18C87B5B63096ED6C12991BF4BFB3E95E702A50DE96F2E8353929013
 
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=0C44AA17094919170A7CF431928E326C265788309D2429C7730F3AA8D370631A
+
 Skillsets:
 - Basic Frontend (HTML, CSS, Basic JS)
 - Web Design
